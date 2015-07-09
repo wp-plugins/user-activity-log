@@ -1,0 +1,134 @@
+.sol-box-border
+{
+    padding: 0 15px;
+}
+.margin_bottom_30
+{
+    margin-bottom: 30px;
+}
+.sol-table-td
+{
+    padding: 10px 20px !important;
+}
+form.sol-form
+{
+    float: left;
+    width: 100%;
+    border-left: 1px solid #ccc;
+    border-right:1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-top:1px solid #ccc;
+    background: #fff;
+}
+.sol-search-user-div
+{
+    margin-top:15px;
+    margin-bottom: 15px;
+    float: left;
+}
+.sol-search-user
+{
+    width: 275px !important;
+}
+.sol-search-div p.search-box
+{
+    float: left;
+}
+.sol-search-div
+{
+    width:100%;
+    float:left;
+    margin-bottom: 15px;
+}
+.sol-filter-btn
+{
+    position: relative;
+    top:2px;
+}
+.sol-col-width
+{
+    width:200px;
+}
+.sol-email-table
+{
+    width:100%;
+    float: left;
+    text-align: left;
+}
+.sol-email-table th
+{
+    width: 20%;
+    vertical-align: top;
+}
+.sol-email-table td
+{
+    width:80%;
+    padding-bottom: 30px;
+}
+.tab_parent li:nth-child(2),.tab_parent li:last-child
+{
+    margin-left: -3px;
+}
+.tab_parent_parent .tab_parent
+{
+    float: left;
+    margin-top: 20px;
+}
+
+.tab_parent li a.current {
+    position: relative;
+    bottom: -1px;
+    background: none repeat scroll 0 0 #fff !important;
+    padding-top: 12px;
+}
+.tab_parent_parent {
+    float: left;
+    margin-bottom: 0;
+    width: 100%;
+}
+.tab_parent {
+    float: right;
+}
+.tab_parent > ul {
+    margin: 0;
+}
+.tab_parent li {
+    display: inline-block;
+    font-size: 18px;
+    margin: 0;
+}
+.tab_parent ul li:first-child a {
+    border-left: 1px solid #cccccc;
+    border-radius: 5px 0 0;
+}
+.tab_parent ul li:last-child a{
+    border-radius: 0 5px 0 0;
+}
+.tab_parent a {
+    border-right: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+    color: #484848;
+    display: block;
+    padding: 11px 19px;
+    text-decoration: none;
+    position: relative;
+    z-index: 1;
+    background: none repeat scroll 0 0 #f1f1f1 !important;
+}
+.tab_parent a:hover
+{
+    color: #484848;
+}
+.sol-dropdown
+{
+    margin-bottom: 15px;
+}
+h3.sol-header-text
+{
+    font-size: 19px;
+    font-weight: 600;
+}
+.sol-display-roles
+{
+    width: 50%;
+}

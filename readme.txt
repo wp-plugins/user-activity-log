@@ -38,7 +38,7 @@ Additional features for security:
 
 
 = Warning =
-The purpose of this plugin is to keep track of all acticty with in your worpdress area. we have performed testing with various cases to make sure plugins works very well, but you should make sure you have a backup of your database, before installing plugin.
+The purpose of this plugin is to keep track of all activity with in your worpdress area. we have performed testing with various cases to make sure plugins works very well, but you should make sure you have a backup of your database, before installing plugin.
 
 
 = Compatibility =

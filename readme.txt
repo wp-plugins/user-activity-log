@@ -65,6 +65,8 @@ Alternatively, you can install the plugin automatically through the WordPress Ad
 
 
 == Changelog ==
+version 1.0.0 : Initial version
+Version 1.1 : Bug fix of widget saving.
 
 
 == Upgrade notice ==

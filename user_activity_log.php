@@ -3,7 +3,7 @@
   Plugin Name: User Activity Log
   Plugin URI: http://www.solwininfotech.com/
   Description: log the activity of users and roles
-  Version:     1.0.0
+  Version:     1.1
   Date: 08 July 2015
   Author:      Solwin Infotech
   Author URI:  http://solwininfotech.com/

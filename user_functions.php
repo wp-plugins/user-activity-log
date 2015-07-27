@@ -445,6 +445,7 @@ function ual_shook_widget_update_callback($widget) {
     $post_id = "";
     $post_title = "Sidebar Widget";
     ual_get_activity_function($action, $obj_type, $post_id, $post_title);
+    return $widget;
 }
 endif;
 add_filter('wp_login_failed', 'ual_shook_wp_login_failed');
